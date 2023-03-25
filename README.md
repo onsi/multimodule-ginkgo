@@ -1,0 +1,1 @@
+Example for https://github.com/onsi/ginkgo/issues/1169
